@@ -20,7 +20,7 @@ Mail
 github
 	defaultcolumn645@gmail.com	: cp-script
 	jonbaker.dev@gmail.com		: catpet
-	zis.hinos@gmail.com			: ZiSHinos
+	zis.hinos@gmail.com		: ZiSHinos
 
 Alchemy
 	maksimcheng215@gmail.com
